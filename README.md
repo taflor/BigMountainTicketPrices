@@ -5,7 +5,7 @@ Application of the Data Science Method using a Linear Regression model.
 After adding an additional ski lift to Big Mountain, what is the recommended adult ticket price to help offset the increase in operation costs?
 
 This project consists of the following steps:
-- Step 1: Business Question and Problem Description
+- Step 1: [Business Question and Problem Description](https://docs.google.com/presentation/d/1rkXhaNP8jVfUCg9DuWKyZ__hCwomzPhG7mzaevelfl4/edit?usp=sharing)
 - Step 2: Data Wrangling and Cleaning
 - Step 3: Exploratory Data Analysis
 - Step 4 and 5: Pre-Processing and Training Data Development
