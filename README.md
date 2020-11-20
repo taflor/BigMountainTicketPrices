@@ -10,4 +10,4 @@ This project consists of the following steps:
 - Step 3: Exploratory Data Analysis
 - Step 4 and 5: Pre-Processing and Training Data Development
 - Step 6: Documentation
-- Presentation
+- [Presentation](https://docs.google.com/presentation/d/1O8EYxL2V__noBA4nCkZYvHOwSU8aspjhR-8IKb-mE1I/edit?usp=sharing)
